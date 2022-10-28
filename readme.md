@@ -8,7 +8,7 @@
 ### 🎯 학습 목표 (Learning Objectives) 🎯
 > 대학수학을 공부하기 위해 필요한 초중고 교육과정 수준의 수학을 학습한다. 기초적인 대수학, 논증기하학, 해석기하학, 미적분학, 확률과 통계를 다루며 대학수학을 위한 벡터와 행렬, 복소평면까지 공부한다.
 ### 📝 목차 (Index) 📝
-* [기초 명제 논리학]("https://github.com/kangdy25/Math_for_Programmer/blob/main/Basic%20MatheMatics/Ch%201%20%EA%B8%B0%EC%B4%88%20%EB%AA%85%EC%A0%9C%20%EB%85%BC%EB%A6%AC%ED%95%99.md/# Ch 1. 기초 명제 논리학")
+* [기초 명제 논리학](https://github.com/kangdy25/Math_for_Programmer/blob/main/Basic%20MatheMatics/Ch%201%20%EA%B8%B0%EC%B4%88%20%EB%AA%85%EC%A0%9C%20%EB%85%BC%EB%A6%AC%ED%95%99.md #기초-명제-)
 * [기초 대수학](#)
 * [기초 논증기하학](#)
 * [기초 해석기하학](#)
