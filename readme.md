@@ -10,12 +10,12 @@
 ### 📝 목차 (Index) 📝
 * [기초 명제 논리학](https://tropical-pasta-efb.notion.site/Ch-1-1609b588b5c1434e875558149533303e)
 * [기초 대수학](https://tropical-pasta-efb.notion.site/Ch-2-877845fa1c4e4303ba89d3f032cb6386)
-* [기초 논증기하학](#)
-* [기초 해석기하학](#)
-* [기초 정수론](#)
-* [기초 해석학](#)
-* [기초 확률과 통계](#)
-* [+α) 대학수학으로 가는 길](#)
+* [기초 논증기하학](https://tropical-pasta-efb.notion.site/Ch-3-4588b373558a4306a4f17402fa9644be)
+* [기초 해석기하학](https://tropical-pasta-efb.notion.site/Ch-4-eb5874960fb5408aaeb04cddde106937)
+* [기초 정수론](https://tropical-pasta-efb.notion.site/Ch-5-4973c6032958470d968b0fc3c2ab03e1)
+* [기초 해석학](https://tropical-pasta-efb.notion.site/Ch-6-fe637f10520245f29568f2d91353f672)
+* [기초 확률과 통계](https://tropical-pasta-efb.notion.site/Ch-7-50db8f3911fc488dad9dd855c4f8ed27)
+* [+α) 대학수학으로 가는 길](https://tropical-pasta-efb.notion.site/dfe8727606a5429d983f0e41626cba8e)
 
 ---
 
@@ -57,9 +57,8 @@
 ### 📝 목차 (Index) 📝
 * [집합론](#)
 * [실수 체계](#)
-* [정수의 구성적 정의](#) 
-* [실수의 구성적 정의](#) 
-* [극한](#)
+* [정수와 실수의 구성적 정의](#) 
+* [극한과 연속](#)
 * [미분](#)
 * [리만 적분](#)
 * [수열, 급수의 극한](#)
