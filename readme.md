@@ -24,7 +24,7 @@
 > 논리와 명제, 관계와 함수, 행렬과 행렬식, 오토마타 및 형식 언어등 이산적 수학에 관련된 지식들에 관한 정확한 정의와 성질을 고찰하고 이산적 사고 방법을 이해하여 이산적 사고 능력을 배양하도록 학습한다.
 ### 📝 목차 (Index) 📝
 * [이산수학 개론](https://tropical-pasta-efb.notion.site/CH-1-e2a91a9e9346483e8a604bb4ae6da3fd)
-* [논리와 증명](#)
+* [논리와 증명](https://tropical-pasta-efb.notion.site/CH-2-e239dffcbd75451eb5e91d50d7a276a9)
 * [집합](#)
 * [관계](#)
 * [함수](#)
