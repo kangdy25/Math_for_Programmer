@@ -25,7 +25,7 @@
 ### 📝 목차 (Index) 📝
 * [이산수학 개론](https://tropical-pasta-efb.notion.site/CH-1-e2a91a9e9346483e8a604bb4ae6da3fd)
 * [논리와 증명](https://tropical-pasta-efb.notion.site/CH-2-e239dffcbd75451eb5e91d50d7a276a9)
-* [집합](#)
+* [집합](https://tropical-pasta-efb.notion.site/CH-3-869f8230bd0f4173a8ae5d0907534dbe)
 * [관계](#)
 * [함수](#)
 * [부분 순서 관계와 부울 대수](#)
